@@ -1,0 +1,9 @@
+101,student1,pass,Student,Badri
+102,student2,pass,Student,Prem
+103,student3,pass,Student,Rahaman
+104,student4,pass,Student,Yashwanth
+105,student5,pass,Student, Karthik
+201,faculty1,pass,Faculty,Dr. Prajwal
+202,faculty2,pass,Faculty,Dr. Shiva
+203,faculty3,pass,Faculty,Dr. Santhosh
+301,librarian,pass,Librarian,Mr. Hemanth
